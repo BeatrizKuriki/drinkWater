@@ -6,11 +6,11 @@
 <br>
 
 <p>Imagem 1: Desktop</p>
-<p align="center"><img src="" width:1000></p>
+<p align="center"><img src="https://github.com/BeatrizKuriki/drinkWater/blob/main/assets/img/imgDemo.PNG" width:1000></p>
 
 <br>
 <h2 align="center">:hourglass: Status do projeto </h2>
-<h4> :white_check_mark: Desktop - Em construção :white_check_mark: </h4>
+<h4> :white_check_mark: Desktop - Finalizado :white_check_mark: </h4>
 
 
 <br>
@@ -22,12 +22,12 @@
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
 <p>Com esse projeto pude melhorar CSS, utilizei a propriedade flex e coloquei efeitos neon. </p>
 <p>Consolidei o entendimento de funções no JavaScript.</p>
-<p>A seguir, mostrarei o código js. 
+<p>A seguir, mostrarei quando o copo começa a ser enchido. 
 <br>
 <br>
 
 <p>Imagem 2: </p>
-<p align="center"><img src="" width:1000></p>
+<p align="center"><img src="https://github.com/BeatrizKuriki/drinkWater/blob/main/assets/img/EnchendoCopo.PNG" width:1000></p>
 <br>
 
 
